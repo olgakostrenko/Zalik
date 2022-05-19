@@ -1,0 +1,711 @@
+*{
+    padding: 0;
+    margin: 0;    
+}
+.background{
+    position: relative;
+    width: 1440px;
+    height: 4809px;
+    background: #212529;
+    
+}
+.photo1{
+    margin-top: 25px;
+    margin-left: 50px;
+    width: 50px;
+    height: 50;
+}
+a{
+    text-decoration:none;
+    color: #FFFF;
+}
+.links{
+    margin-left: 550px;
+    position:relative;
+    bottom: 30px;
+    text-align: center;
+}
+.link1{
+    
+    color: #FFB742;
+    
+}
+.link{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    padding-left: 25px;
+    display: inline-block;
+}
+.link2{
+    padding: 12px;
+    margin-left: 406px;
+    color: black;
+    background-color: #FFB742;
+    border-radius: 40px;
+}
+.t{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    color: #FFFF;
+    text-align: center;
+
+}
+.t1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    margin-top: 124px;
+    color: #FFFF;
+    margin-left: 90px;
+    text-align: center;
+
+}
+.t1-1{
+    margin-top: 10px;
+    font-size: 48px;
+
+}
+.t1-2{
+    font-size: 24px;
+    font-weight: 100;
+    margin-top: 30px;
+}
+.photo2{
+    margin-top: 70px;
+    background-color: #FFB742;
+    border-radius: 50%;
+    margin-left: 90px;
+
+}
+ins{
+    color: #FFB742;
+}
+.boxes{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 90px;
+    margin-top: 136px;
+}
+.mark{
+    padding: 10px;
+    background: #E9E9E9;
+    border-radius: 50%;
+}
+.box1{
+    background: rgba(56, 62, 69, 0.44);
+    padding: 30px ;
+    display: -webkit-inline-box;
+    color: #E9E9E9;
+}
+.top{
+    margin-left: 50px;
+}
+.space{
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #FFB742;
+}
+.top2{
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 100;
+}
+.element{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.boxes2{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    display: flex;
+    justify-content:space-around;
+    
+}
+.box2{
+    margin-top: 140px;
+    margin-left: 80px;
+    
+    
+}
+.photo3{
+    background-image: url(img/Group\ 11.png);
+    background-repeat: no-repeat;
+    background-position: 0 120px;
+    
+}
+.style{
+    color: #FFB742;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 15px;
+    background:rgba(56, 62, 69, 0.44);
+    margin-right: 610px;
+    border-radius: 40px;
+    margin-top: 221px;
+}
+.style1{
+    margin-top: 10px;
+    color:#FFFF;
+}
+.txt{
+    margin-top: 29px;
+    color: #D4D4D4;
+    line-height: 30px;
+}
+.link3{
+    margin-top: 30px;
+    position: relative;
+    right: 405px;
+}
+.link4{
+    padding-left: 39px;
+    padding-right: 39px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-left: 406px;
+    color: black;
+    background-color: #FFB742;
+    border-radius: 40px;
+}
+.style-1{
+    color: #FFB742;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 15px;
+    background:rgba(56, 62, 69, 0.44);
+    margin-left: 50px;
+    border-radius: 40px;
+    margin-top: 221px;
+    margin-right: 600px;
+}
+.style12{
+    margin-top: 10px;
+    color:#FFFF;
+    margin-left: 60px;
+}
+.txt1{
+    margin-top: 29px;
+    color: #D4D4D4;
+    line-height: 30px;
+    margin-left: 60px;
+}
+.link31{
+    margin-top: 63px;
+    position: relative;
+    right: 350px;
+}
+.logos-1{
+    margin-top: 300px;
+ 
+}
+.logos{
+    height: 48px;
+    width: 48px;
+    left: 0px;
+    top: 0px;
+    padding: 16px;
+    background:#383E45;
+    border-radius: 10px;
+    margin-left: 16px;
+}
+.top3{
+    margin-top: 16px;
+}
+.works{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    
+}
+.style-2{
+    color: #FFB742;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 15px;
+    background:rgba(56, 62, 69, 0.44);
+    margin-left: 620px;
+    border-radius: 40px;
+    margin-top: 221px;
+    text-align: center;
+    margin-right: 600px;
+}
+.links1{
+    margin-top: 40px;
+    text-align: center;
+    margin-right: 30px;
+}
+.link-1{
+   
+    display: inline;
+    margin-left: 44px;
+    font-size: 16px;
+   
+
+}
+.link5{
+    color: black;
+    background: #FFB742;
+    padding: 8px 20px 8px 20px;
+
+}
+.t3{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    color: #FFFF;
+    margin-top: 10px;
+    font-size: 48px;
+    text-align: center;
+}
+
+.exemp-1{
+    margin-top: 50px;
+    display: flex;
+    align-items: flex-start;
+    margin-left: 100px;  
+}
+.ph-ex{
+    margin-left: 31px;  
+}
+.exemp-2
+{
+    margin-top: 30px;
+    display: flex;
+    align-items: flex-end;
+    margin-left: 100px;
+    position: relative;
+    bottom: 210px;
+
+}
+.ph-ex1{
+    margin-left: 31px;
+}
+.comments{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    color: black;
+    margin-top: 88px;
+    
+
+}
+.comm{
+    background: #FFFF;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 8px;
+
+}
+.text{
+    line-height: 30px;
+}
+.tt{
+    position: relative;
+    left: 100px;
+    bottom:50px;
+        
+}
+.ph-user{
+    margin-top: 30px;
+}
+.dots{
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+    font-size: x-small;
+    margin-top: 65px;
+}
+.dot1{
+    color: #FFB742;
+    background: #FFB742;
+    padding: 0 20px 0 20px;
+    border-radius: 25px;
+    margin-right: 3px;
+
+}
+.dot2{
+    color:#BB842C;
+    background: #BB842C;
+    padding: 0 8px 0 8px;
+    border-radius: 25px;
+
+}
+.block{
+    display: flex;
+    color: black;
+    margin-top: 115px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    background: #FFB742;
+    padding: 47px 84px 47px 84px;
+    margin-left: 70px;
+    border-radius: 15px;
+    position: relative;
+    top:80px;
+
+}
+
+.txt3{
+   font-size: 10px;
+    margin-left: 150px;
+    line-height: 20px;
+}
+.link21{
+    margin-left: 150px;
+    font-size: 25px;
+    font-weight: 500;
+    border: 3px  solid black;
+    border-radius: 25px;
+
+
+}
+.link24{
+    color: black;
+    text-align: center;
+    padding: 25px;
+    
+}
+footer{
+    height: 470px;
+    width: 1540px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #1c1c1c;
+    display: flex;
+    justify-content: space-around;  
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+}
+.name{
+    color: #FFB742;
+    margin-top: 148px;
+}
+.txt5{
+    color:#D4D4D4;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+
+}
+.style3{
+    margin-top: 148px;
+    color: #FFFF;
+}
+.style2{
+    color: #7B7B7B;
+    margin-top: 5px;
+      
+}
+.txt6{
+    color: #7B7B7B;
+    margin-top: 15px;    
+}
+.stl{
+    margin-top: 20px;
+}
+
+input{
+    background: #212529;
+    padding: 20px;
+    border-radius: 40px;
+    outline: none;
+    border: none;
+    border: solid 1px #f2f2f2;
+    border-color: #212529;
+}
+.plane{
+    background: #FFB742;
+    padding: 18px;
+    border-radius: 40px;
+    position: relative;
+    right: 50px;
+    top:25px;
+}
+@media (max-width:768px) {
+    .photo1 {
+        margin-top: 20px;
+        margin-left: 25px;
+        width: 40px;
+    }
+    .links {
+        margin-left: 130px;
+        position: relative;
+        
+        text-align: left;
+    }
+    .link2 {
+        margin-left: 26px;     
+    }
+    .t1 {
+        font-size: 22px;
+        margin-top: 54px;
+        margin-left: 200px;
+        text-align: left;
+    }
+    .t {
+        
+        text-align: left;
+    }
+
+    .t1-1 {
+        font-size: 28px;
+        margin-left: 50px;
+    }
+    .t1-2 {
+        font-size: 14px;
+        margin-top: 20px;
+        margin-left: 100px;
+    }
+    .photo2 {
+        margin-top: 50px;
+        margin-left: 200px;
+    }
+    .boxes {
+        margin-left: 30px;
+        margin-top: 90px;
+        width: 550px;
+        height: 100px;
+    }
+    .mark {
+        padding: 5px;
+        width: 18px;
+        height: 18px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    .top2 {
+        margin-top: 1px;
+        font-size: 6px;
+        
+    }
+    .box1 {
+        
+        display: flex;
+        justify-content: space-around;
+        padding: 5px;
+        width: 150px;
+        height: 50px;
+        margin-left: 20px;
+    }
+    .space {
+        margin-top: 5px;
+        margin-left: 0px;
+        font-size: 22px;
+    }
+
+    
+    .box2 {
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    .element {
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+    .photo3 {
+        background-position: 0px 25px;
+        background-size: 190px;
+        width: 200px;
+        margin-left: 60px;
+    }
+    .style {
+        font-size: 15px;
+        padding: 10px;
+        margin-top: 20px;
+    }
+    .style1 {
+        margin-top: 0px;
+        color: #FFFF;
+        font-size: 28px;
+    }
+    .boxes2 {
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        display: flex;
+        margin-left: 0px;
+        justify-content:left;
+    }
+    .txt {
+        margin-top: 10px;
+        line-height: 20px;
+        font-size: 7.8px;
+    }
+    .link4 {
+        padding-left: 19px;
+        padding-right: 19px;
+        padding-top: 12px;
+        padding-bottom: 10px;
+        margin-left: 400px;
+        font-size: 8px;
+    }
+    .style-1 {
+        font-size: 10px;
+        margin-top: 110px;
+        margin-right: 145px;
+    }
+    .style12 {
+        margin-top: 5px;
+        font-size: 25px;
+    }
+    .txt1 {
+        margin-top: 19px;
+        line-height: 20px;
+        font-size: 9px;        
+    }
+    .block-21 {
+       
+        width: 450px;
+        height: 200px;
+    }
+    .logos {
+        height: 9px;
+        width: 9px;
+        padding: 5px;
+        margin-left: 4px;
+    }
+    .logos-1 {
+        margin-top: 200px;
+    }
+    .link4 {
+        padding: 10px;
+        margin-left: 400px;
+        font-size: 8px;
+    }
+    .t3 {
+
+        margin-top: 5px;
+        font-size: 28px;
+        text-align: left;
+        margin-left: 210px;
+    }
+    .links1 {
+        margin-top: 20px;
+        text-align: left;
+        margin-right: 10px;
+    }
+    .link-1 {
+        display: inline;
+        margin-left: 70px;
+        font-size: 10px;
+    }
+    .style-2 {
+        font-size: 10px;
+        padding: 10px;
+        margin-left: 620px;
+        margin-top: 180px;
+        text-align: center;
+        margin-right: 700px;
+        position: relative;
+        right: 355px;
+    }
+    .exemp-1 {
+        margin-top: 20px;
+        margin-left: 80px;
+    }
+    .ph-ex {
+        margin-left: 10px;
+        width: 150px;
+    }
+    .exemp-2 {
+        margin-top: 140px;
+        margin-left: 80px;
+    }
+    .ph-ex1 {
+        margin-left: 10px;
+        width: 150px;
+    }
+    .comm {
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 20px;
+    }
+    .text {
+        line-height: 20px;
+        font-size: 10px;
+    }
+    .ph-user {
+        margin-top: 10px;
+        width: 45px;
+    }
+    .tt {
+        
+        left: 50px;
+        bottom: 40px;
+        font-size: 12px;
+    }
+    .comments {
+        margin-top: 78px;
+        margin-left: 40px;
+        justify-content: left;
+    }
+    .dots {
+        margin-left: 300px;
+        justify-content: left;
+        margin-top: 25px;
+    }
+    .block {
+        margin-top: 50px;
+        padding: 17px 44px 17px 44px;
+        margin-left: 20px;
+        width: 500px;
+        height: 60px;
+        height: 120px;        
+    }
+    .start {
+        font-size: 12px;
+    }
+    .name {
+        margin-top: 110px;
+        font-size: 20px;
+        margin-right: 20px;
+    }
+    .txt5 {
+        font-size: 6px;
+        line-height: 12px;
+    }
+    footer {
+        height: 320px;
+        width: 768px;
+        justify-content: left;
+    }
+    .style3 {
+        margin-top: 110px;
+        margin-right: 20px;
+    }
+    .block7 {
+        margin-left: 20px;
+    }
+    h1 {
+        font-size: 15px;
+    }
+    .style2 {
+        margin-top: 3px;
+        font-size: 10px;
+    }
+    .txt6 {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    input {
+        padding: 15px;
+    }
+    .plane {
+        padding: 15px;
+    }
+    h3.txt3 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .link24 {
+        padding-left: 1px;
+        padding-right: 1px;
+        font-size: 20px;
+    }
+}    
